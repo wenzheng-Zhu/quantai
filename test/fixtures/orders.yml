@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  phone_no: MyString
+  order_price: 9.99
+  total_point: 9.99
+  bonus: 1
+
+two:
+  phone_no: MyString
+  order_price: 9.99
+  total_point: 9.99
+  bonus: 1
